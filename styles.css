@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+body{
+    background-color: rgb(230, 143, 164);
+}
+#container{ width: 45%;
+    background-color: white;
+    padding: 40px;
+    margin: 50px auto;
+    border-radius: 25px;
+   
+}
+
+.img-div{
+    width: 100%;
+    border-radius: 25px;
+
+}
+
+img{
+    width: 100%;
+    border-radius: 25px;
+}
+
+#omelette-heading{
+    margin-block: 20px;
+    font-size: 2rem;
+}
+.para{
+    margin-bottom: 20px;
+}
+.preparation{
+   background-color: plum; 
+   padding: 20px 30px;
+   border-radius: 10px;
+}
+
+.preparation ul{
+    margin-left: 20px;
+
+}
+.preparation h4{
+    margin-bottom: 10px;
+    color: purple;
+}
+.preparation li{
+    margin-bottom: 8px;
+}
